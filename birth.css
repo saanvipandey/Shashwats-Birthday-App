@@ -1,0 +1,52 @@
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 20px;
+    color:white;
+    border-color:blue;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:50%;
+    height:8%;
+    box-shadow:5px 5px 18px rgb(131, 131, 255);
+}
+
+body
+{
+    background-image:url("https://cdn4.vectorstock.com/i/1000x1000/19/68/birthday-background-with-party-balloons-vector-19361968.jpg");
+    background-position:center;
+    background-size: cover;
+}
+h2
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    color:black;
+}
+
+h3
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+button
+{
+    border-color:yellow;
+    border-width:2px;
+    border-radius:2px;
+    border-style:solid;
+    font-style:italic;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    width:60%;
+}
+iframe
+{
+    border-width:3.5px;
+    border-color:black;
+    border-radius: 10px;
+    border-style:solid;
+    box-shadow: 5px 5px 18px grey;
+}

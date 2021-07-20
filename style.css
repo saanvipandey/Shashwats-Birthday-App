@@ -1,0 +1,85 @@
+.heading
+{
+    width:50%;
+    height:8%;
+    font-style:italic;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+    font-size:20px;
+    border-radius: 5px;
+    border-color:blue;
+    border-width:2px;
+    box-shadow:5px 5px 18px rgb(161, 161, 255);
+}
+
+body
+{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAi59QHq5bTDirHNh2FznDGiBTR93l6LNKNk7CDK9TL2L4gyCQewiiT9HiR2HJxEgIQA&usqp=CAU");
+    background-position:center;
+    background-size: cover;
+}
+
+.login_div img 
+{
+    width:150px;
+    height:150px;
+    border-color:black;
+    border-width: 3px;
+    border-style:ridge;
+
+
+
+}
+
+.login_div
+{
+	background:rgb(255, 177, 232);
+    float: none;
+    border-radius: 15px;
+    width:60%;
+    border-color:rgb(255, 0, 128);
+    border-width:2.5px;
+    border-style:ridge;
+
+}
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 20px;
+    color:white;
+    border-color:blue;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:50%;
+    height:8%;
+    box-shadow:5px 5px 18px rgb(131, 131, 255);
+}
+
+button
+{
+    border-color:yellow;
+    border-width:2px;
+    border-radius:2px;
+    border-style:solid;
+    font-style:italic;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    width:60%;
+}
+
+h2
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    color:white;
+}
+
+h3
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    color:black;
+}
+

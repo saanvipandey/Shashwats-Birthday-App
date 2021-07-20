@@ -1,0 +1,84 @@
+h3
+{
+    font-size: 25px !important;
+}
+
+
+canvas
+{
+    animation-name:example;
+    animation-duration:5s;
+    animation-iteration-count:infinite;
+    border-color:black;
+    border-width:3.5px;
+    border-style:solid;
+}
+
+@keyframes example
+{
+    from{box-shadow: 1px 1px 38px red;}
+    to{box-shadow: 1px 1px 38px yellow;}
+}
+
+.header
+{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 20px;
+    color:white;
+    border-color:blue;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style:solid;
+    width:50%;
+    height:8%;
+    box-shadow:5px 5px 18px rgb(131, 131, 255);
+}
+body
+{
+    background-image:url("https://thumbs.dreamstime.com/z/pastel-blue-table-white-balloons-confetti-top-view-party-birthday-background-flat-lay-style-145081119.jpg");
+    background-position:center;
+    background-size: cover;
+}
+h3
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:black;
+}
+.footer_div
+{
+    bottom:0;
+}
+button
+{
+    border-color:yellow;
+    border-width:2px;
+    border-radius:2px;
+    border-style:solid;
+    font-style:italic;
+    font-weight:bold;
+    font-family:'Times New Roman', Times, serif;
+    width:60%;
+}
+.footer_div
+{
+    position:fixed;
+    color:rgb(197, 28, 248);
+    bottom:0;
+    width:100%;
+    line-height:2.5;
+    text-align:center;
+    font-size:15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-weight:bold;
+    border-color:violet;
+    border-width:3px;
+}
+.bt
+{
+    border-color:purple;
+    border-width:2px;
+    border-style:solid;
+    width:35%;
+}
